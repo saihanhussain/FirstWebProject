@@ -1,0 +1,95 @@
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.line{
+    border-left: 6px solid green;
+  height: 500px;
+}
+.Link-Button{
+    text-decoration: none;
+    background-color: #ff4500;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.orange{
+    color: #ff4500;
+}
+.red{
+    color: darkred;
+}
+body{
+    margin: 0;
+}
+.container{
+    flex-shrink: 125;
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    height: 100%;
+    flex-wrap: wrap;
+    font-size: 1em;
+    align-items: stretch;
+    
+    
+    align-content: space-between;
+    
+}
+.half-width{
+    width: 20%;
+    padding-left: 5%;
+}
+.bc{
+    background-color: hotpink;
+    flex: 0 0 50px;
+
+}
+section{
+    display: flex;
+    margin-bottom: 100;
+}
+
+.vertical{
+    font-size: 20px;
+    margin-top: 0px;
+}
+linkbutton{
+    text-decoration: none;
+    background-color: #ff4500;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.position{
+    text-align: center;
+    font-size: 50px;
+}
+.pink{
+    color: aqua;
+    font-size: 50;
+}
+.side{
+    text-align: right;
+    font: 600;
+}
+.BookDownload{
+    text-align: right;
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+.pos{
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+.col{
+    background-color: chocolate;
+}
